@@ -68,6 +68,7 @@ O puede utilizar el componente "navbar" para crear una barra de navegación:
 ```
 
 ## **Login**
+[Login Github Pages](https://brandont2002.github.io/IPC2-Bootstrap/)
 <p align="center">	<!-- (optional) center align -->
     <img src="img/login.jpg" width="XXXpx">
 </p>
